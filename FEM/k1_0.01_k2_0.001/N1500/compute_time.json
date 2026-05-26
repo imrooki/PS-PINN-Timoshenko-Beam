@@ -1,0 +1,18 @@
+{
+  "method": "FEM",
+  "k1": 0.01,
+  "k2": 0.001,
+  "n_elem": 1500,
+  "linear_solve_time_sec": 1.1919304000912234,
+  "nonlinear_solve_time_sec": 15.953050400014035,
+  "total_solve_time_sec": 17.14498080010526,
+  "device": "cpu",
+  "dtype": "float64",
+  "w_mid_linear": -0.46833958713851925,
+  "w_mid_nonlinear": -0.4289522321009438,
+  "nonlinear_residual_inf": 1.1659249954387718e-13,
+  "nonlinear_converged": true,
+  "nonlinear_convergence_tol": 1e-06,
+  "K_sym_err": 8.881784197001252e-16,
+  "csv_filename": "w_W_0.025_T_300_H_0.8_q_n0.08_k1_0.01_k2_0.001_N1500.csv"
+}
