@@ -24,7 +24,7 @@ a = 0.0
 b = 0
 c = 0.5
 
-epochs = 100000
+epochs = 80000
 lr = 8e-5
 N_train = 10000
 seed = 42
